@@ -1,2 +1,2 @@
 # teapNotify
-<a href="https://storyset.com/communication">Communication illustrations by Storyset</a>
+<img src="https://cdn.discordapp.com/attachments/799043172868685825/914530638634287163/New_message-bro.png" alt="react" width="40" height="40"/> 
